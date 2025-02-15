@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm [mohammad alizadeh]!
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on **[Your Project or Area]**  
+<!-- 🔭 I’m currently working on **[Your Project or Area]**  -->
 - 🌱 I’m learning **[Technologies You’re Learning]**  
 - 🤝 I’m looking to collaborate on **[Projects or Fields You Want to Contribute To]**  
 - 💬 Ask me about **[Your Expertise]**  
