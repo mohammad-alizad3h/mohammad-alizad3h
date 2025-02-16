@@ -1,17 +1,16 @@
 ## 👋 Hi, I'm mohammad alizadeh
 
 ### 🚀 About Me:
-<!-- 🔭 I’m currently working on **[Your Project or Area]**  -->
 - 🌱 I’m learning **Node.js**
-- 🤝 I’m looking to collaborate on **[Projects or Fields You Want to Contribute To]**  
 - 💬 Ask me about **codeing**  
 - 📫 How to reach me: **mohammadalizadeh.me@gmail.com**  
 - ⚡ Fun fact: **mohammadstyle**  
-
+<!-- 🤝 I’m looking to collaborate on **[Projects or Fields You Want to Contribute To]**  -->
+<!-- 🔭 I’m currently working on **[Your Project or Area]**  -->
 ---
 
 ### 🛠 Tech Stack:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
