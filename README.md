@@ -23,7 +23,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-alizad3h&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-alizad3h&layout=compact&theme=radical)  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-alizad3h&show_icons=true&theme=dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad-alizad3h&theme=github-dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad-alizad3h&theme=github-dark)
 ---
 
