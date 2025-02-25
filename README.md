@@ -2,9 +2,9 @@
 
 ### 🚀 About Me:
 - 🌱 I’m learning **Node.js**
-- 💬 Ask me about **codeing**  
+- 💬 Ask me about **coding**  
 - 📫 How to reach me: **mohammadalizadeh.me@gmail.com**  
-- ⚡ Fun fact: **mohammadstyle**
+- ⚡ Fun fact: **Coding is my favorite hobby.**
 - ![Profile Views](https://komarev.com/ghpvc/?username=AliDev&color=blue)
 
 <!-- 🤝 I’m looking to collaborate on **[Projects or Fields You Want to Contribute To]**  -->
