@@ -5,7 +5,7 @@
 - 💬 Ask me about **coding**  
 - 📫 How to reach me: **mohammadalizadeh.me@gmail.com**  
 - ⚡ Fun fact: **Coding is my favorite hobby.**
-- ![Profile Views](https://komarev.com/ghpvc/?username=AliDev&color=blue)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=AliDev&color=blue) -->
 
 <!-- 🤝 I’m looking to collaborate on **[Projects or Fields You Want to Contribute To]**  -->
 <!-- 🔭 I’m currently working on **[Your Project or Area]**  -->
