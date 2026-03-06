@@ -1,50 +1,41 @@
-# 👋 سلام، من [نام شما] هستم
+## 👋 Hi, I'm mohammad alizadeh
 
-### 🌐 توسعه‌دهنده فول‌استک | علاقه‌مند به متن‌باز | یادگیرنده همیشگی
+### 🚀 About Me:
 
----
+- 🌱 I’m learning **Node.js**
+- 💬 Ask me about **coding**
+- 📫 How to reach me: **mohammadalizadeh.me@gmail.com**
+- ⚡ Fun fact: **Coding is my favorite hobby.**
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=AliDev&color=blue) -->
 
-## 🔹 درباره من
+<!-- 🤝 I’m looking to collaborate on **[Projects or Fields You Want to Contribute To]**  -->
 
-من یک توسعه‌دهنده پرشور با تجربه در **توسعه وب**، **ایجاد APIهای بک‌اند** و **مشارکت در پروژه‌های متن‌باز** هستم. دوست دارم راه‌حل‌های بهینه، مقیاس‌پذیر و تمیز ایجاد کنم و همیشه در حال یادگیری فناوری‌ها و فریم‌ورک‌های جدید هستم.
+## <!-- 🔭 I’m currently working on **[Your Project or Area]**  -->
 
-- 💻 **تکنولوژی‌ها:** JavaScript, Python, React, Node.js, Express, MongoDB, SQL
-- 🌱 **در حال یادگیری:** Rust, GraphQL, Cloud DevOps (AWS/GCP)
-- ⚡ **یک نکته جالب:** من از مشارکت در پروژه‌های متن‌باز و نوشتن بلاگ‌های فنی لذت می‌برم.
+### 🛠 Tech Stack:
 
----
-
-## 🔹 آمار گیت‌هاب
-
-![آمار گیت‌هاب شما](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=radical)
-
----
-
-## 🔹 زبان‌های برتر
-
-![زبان‌های برتر](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-## 🔹 پروژه‌ها و مشارکت در متن‌باز
+### 📈 GitHub Stats:
 
-- 🌟 مشارکت در [Awesome Project](https://github.com/PROJECT_LINK)
-- 🛠 ساخت [پروژه شخصی](https://github.com/YOUR_PROJECT)
-
----
-
-## 🔹 ارتباط با من
-
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- [Twitter](https://twitter.com/YOUR_TWITTER/)
-- [Portfolio](https://YOUR_PORTFOLIO.com)
-- [Email](mailto:YOUR_EMAIL)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-alizad3h&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-alizad3h&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-alizad3h&show_icons=true&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammad-alizad3h&theme=github-dark)
 
 ---
 
-✅ **نکات حرفه‌ای برای README پروفایل گیت‌هاب:**
+### 🔗 Connect With Me:
 
-1. خلاصه و خوانا باشد.
-2. تکنولوژی‌ها و پروژه‌های شما را نشان دهد.
-3. آمار گیت‌هاب و زبان‌های برتر را به صورت تصویری اضافه کند.
-4. لینک‌های شبکه‌های اجتماعی را برای ارتباطات اضافه کنید.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+
+---
+
+⭐ **Feel free to check out my repositories and contribute!**
