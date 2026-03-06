@@ -2,12 +2,11 @@
 
 ### 🚀 About Me:
 
-- 🌱 I’m learning **Node.js**
-- 💬 Ask me about **coding**
-- 📫 How to reach me: **mohammadalizadeh.me@gmail.com**
-- ⚡ Fun fact: **Coding is my favorite hobby.**
-- 🤝 I’m looking to collaborate on **[Projects or Fields You Want to Contribute To]**
-![Profile Views](https://komarev.com/ghpvc/?username=mohammad-alizad3h&color=blue)
+- 💻 Full-Stack Developer | Node.js | Python | React | Next.js
+- 🌐 Backend: Node.js, Python, MongoDB, MySQL
+- ⚡ Frontend: HTML5, CSS3, Tailwind CSS, React, Next.js
+- 🚀 Always learning, building, and sharing cool projects
+- ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-alizad3h&color=blue)
 
 ## <!-- 🔭 I’m currently working on **[Your Project or Area]**  -->
 
