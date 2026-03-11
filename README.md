@@ -6,7 +6,7 @@
 - 🌐 Backend: Node.js, Python, MongoDB, MySQL
 - ⚡ Frontend: HTML5, CSS3, Tailwind CSS, React, Next.js
 - 🚀 Always learning, building, and sharing cool projects
-- 🔭 I’m currently working on **[ AIprep]**
+- 🔭 I’m currently working on **AIprep**
 - ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-alizad3h&color=blue)
 
 
