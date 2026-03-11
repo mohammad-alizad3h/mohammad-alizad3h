@@ -6,9 +6,10 @@
 - 🌐 Backend: Node.js, Python, MongoDB, MySQL
 - ⚡ Frontend: HTML5, CSS3, Tailwind CSS, React, Next.js
 - 🚀 Always learning, building, and sharing cool projects
+- 🔭 I’m currently working on **[ AIprep]**
 - ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-alizad3h&color=blue)
 
-## <!-- 🔭 I’m currently working on **[Your Project or Area]**  -->
+
 
 ### 🛠 Tech Stack:
 
@@ -35,8 +36,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourUsername)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m_alizad3h)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mohammadalizadeh.me@gmail.com)
 
 ---
 
